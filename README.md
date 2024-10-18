@@ -1,8 +1,6 @@
 # JOIN, LEFT, SELECT e outros  - DTL ORACLE DATABASE 👩‍💻
 
-
-<i class="devicon-oracle-original"></i>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 
 ## Descrição ✨
 
