@@ -1,10 +1,8 @@
 # JOIN, LEFT, SELECT e outros  - DTL ORACLE DATABASE 👩‍💻
 
-<p align="center">
-  <a href="https://www.flaticon.com/search?word=sql">
-    <img src="devicon-oracle-original" />
-  </a>
-</p>
+
+<i class="devicon-oracle-original"></i>
+          
 
 ## Descrição ✨
 
