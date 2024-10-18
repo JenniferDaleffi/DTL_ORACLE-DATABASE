@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.flaticon.com/search?word=sql">
-    <img src="![image](https://github.com/user-attachments/assets/bb143204-c49e-4751-97ec-a852f8a0c16a)" />
+    <img src="devicon-oracle-original" />
   </a>
 </p>
 
